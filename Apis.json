@@ -1,6 +1,7 @@
 {
   "apis": "https://aryan-error-api.onrender.com",
   "sing": "https://aryan-error-sing-api.onrender.com",
+  "video": "https://aryan-error-sing-api.onrender.com",
   "gf": "https://aryan-error-gf-api.onrender.com/",
   "gf2": "https://aryan-error-hindi-gf-api.onrender.com/",
   "quiz": "https://aryan-quiz.vercel.app/",
