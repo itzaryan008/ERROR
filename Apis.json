@@ -7,5 +7,6 @@
   "quiz": "https://aryan-quiz.vercel.app/",
   "alldl": "https://aryan-error-hunter.vercel.app/",
   "media": "https://aryan-video-downloader.vercel.app/",
-  "imbb": "https://aryan-error-api.onrender.com"
+  "imbb": "https://aryan-error-api.onrender.com",
+  "oi": "http://65.109.80.126:20392"
 }
