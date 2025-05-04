@@ -1,5 +1,12 @@
 {
-  "apis": "https://itz.aryan-error-apis.rf.gd",
+  "api": "https://xyz-apis.onrender.com/aryan",
+  "apis": [
+    "https://itz.aryan-error-apis.rf.gd",
+    "https://aryan-error-sing-api.onrender.com",
+    "https://aryan-error-gf-api.onrender.com/",
+    "https://aryan-quiz.vercel.app/",
+    "https://aryan-error-api.onrender.com/aryan"
+  ],
   "imgur": "https://itz.aryan-error-apis.rf.gd",
   "sing": "https://aryan-error-sing-api.onrender.com",
   "video": "https://aryan-error-sing-api.onrender.com",
