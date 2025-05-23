@@ -17,5 +17,6 @@
   "meta": "https://aryan-meta-ai.vercel.app/meta-ai",
   "n": "http://65.109.80.126:20392",
   "repo": "https://aryan-xyz-user.vercel.app/github/repo?query",
-  "ytsearch": "https://aryan-xyz-search.vercel.app/ytsearch?query"
+  "ytsearch": "https://aryan-xyz-search.vercel.app/ytsearch?query",
+  "gptpro": "https://aryan-xyz-chat.vercel.app/ask/gptpro?userId=123&question"
 }
