@@ -16,5 +16,6 @@
   "gpt": "https://xyz-naruto-apis.vercel.app/aryan/gpt",
   "meta": "https://aryan-meta-ai.vercel.app/meta-ai",
   "n": "http://65.109.80.126:20392",
-  "repo": "https://aryan-xyz-user.vercel.app/github/repo"
+  "repo": "https://aryan-xyz-user.vercel.app/github/repo?query",
+  "ytsearch": "https://aryan-xyz-search.vercel.app/ytsearch?query"
 }
