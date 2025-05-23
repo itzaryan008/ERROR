@@ -15,5 +15,6 @@
   "imbb": "https://xyz-naruto-api.onrender.com",
   "gpt": "https://xyz-naruto-apis.vercel.app/aryan/gpt",
   "meta": "https://aryan-meta-ai.vercel.app/meta-ai",
-  "oi": "http://65.109.80.126:20392"
+  "n": "http://65.109.80.126:20392",
+  "repo": "https://aryan-xyz-user.vercel.app/github/repo"
 }
