@@ -1,10 +1,10 @@
 {
-  "api": "https://xyz-naruto-api.onrender.com/aryan",
+  "api": "https://aryanx-apis.onrender.com",
   "apis": [
-    "https://xyz-naruto-api.onrender.com/aryan",
+    "https://aryanx-apis.onrender.com/aryan",
     "https://aryan-quiz.vercel.app/"
   ],
-  "imgur": "https://xyz-naruto-api.onrender.com",
+  "imgur": "https://aryanx-apis.onrender.com",
   "sing": "https://aryan-error-sing-api.onrender.com",
   "video": "https://aryan-error-sing-api.onrender.com",
   "gf": "https://aryan-error-gf-api.onrender.com/",
@@ -12,7 +12,7 @@
   "meta2": "https://aryan-xyz-pro.vercel.app/api/meta",
   "alldl": "https://aryan-error-hunter.vercel.app/",
   "media": "https://aryan-video-downloader.vercel.app/",
-  "imbb": "https://xyz-naruto-api.onrender.com",
+  "imbb": "https://aryanx-apis.onrender.com",
   "gpt": "https://xyz-naruto-apis.vercel.app/aryan/gpt",
   "meta": "https://aryan-meta-ai.vercel.app/meta-ai",
   "n": "http://65.109.80.126:20392",
